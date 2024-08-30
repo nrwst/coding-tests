@@ -18,3 +18,13 @@ import './commands'
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
+
+/**
+ * Added this uncaught expectation because Cypress detects uncaught errors originating from 
+ * https://weratedogs.com it will automatically fail the current test
+ */
+Cypress.on('uncaught:exception', (err, runnable) => {
+    // returning false here prevents Cypress from
+    // failing the test
+    return false
+  })
