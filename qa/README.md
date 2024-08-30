@@ -47,6 +47,7 @@ Assume there's no testing at all for a new website at https://catadoptionteam.or
 * Test the various mode payment by Card , Paypal , Bank Transfer
 * Test the other way of donation by shoping on shop support cat
 e.g KitnipBox , utokia ......
+
 **Why** 
 * The high-priority tests focus on cat adoption by attracting potential adopters and securing donations, their primary source of funding for cat
 
@@ -57,6 +58,7 @@ e.g KitnipBox , utokia ......
 * Test for all Cat details ( image , age , sex & location correctly populated )
 * Test for News & Update subscription with name and email work seamless
 * Services Functionlty
+
 **Why** 
 * This ensure a positive user experience across various platforms and devices.
 
