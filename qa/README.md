@@ -34,38 +34,38 @@ Assume there's no testing at all for a new website at https://catadoptionteam.or
 
 ### Answer [Cat Adoption Websites Test Strategy]
 **High Priority Use Cases**
-    1. Adoption Of Cat & Sponsoring
-        * Test on browseing process of avaliable cats , by direct search or filteration on Location , Sex , Age and Size
-        * Making sure the adoption process or flow working seamless
-        * Make sure user can sponsor the cat with minimum amount $30 to maximum sponsor
-        * Make sure adoption fees collected as per policy on each cat with factors like age , behaviour , medical needs and demands.
-        * Successfull adoption of cat (one of main objective that cat should get home )
-    2. Fundraising Functionality
-        * Test Both Monthly giving and Other ways of giving flows work seamless
-        * Test chose amount with various range and custom range submission work
-        * Test user information forms work seamless with all error handling funcitonalty
-        * Test the various mode payment by Card , Paypal , Bank Transfer
-        * Test the other way of donation by shoping on shop support cat
-        e.g KitnipBox , utokia ......
-    **Why** 
-        * The high-priority tests focus on cat adoption by attracting potential adopters and securing donations, their primary source of funding for cat
+1. Adoption Of Cat & Sponsoring
+* Test on browseing process of avaliable cats , by direct search or filteration on Location , Sex , Age and Size
+* Making sure the adoption process or flow working seamless
+* Make sure user can sponsor the cat with minimum amount $30 to maximum sponsor
+* Make sure adoption fees collected as per policy on each cat with factors like age , behaviour , medical needs and demands.
+* Successfull adoption of cat (one of main objective that cat should get home )
+2. Fundraising Functionality
+* Test Both Monthly giving and Other ways of giving flows work seamless
+* Test chose amount with various range and custom range submission work
+* Test user information forms work seamless with all error handling funcitonalty
+* Test the various mode payment by Card , Paypal , Bank Transfer
+* Test the other way of donation by shoping on shop support cat
+e.g KitnipBox , utokia ......
+**Why** 
+* The high-priority tests focus on cat adoption by attracting potential adopters and securing donations, their primary source of funding for cat
 
 **Medium Priority Use Cases**
-        * Test Website compabtility testing ( Dekstop , Mobile , tablet)
-        * Test all Main menu , Sub Menu ,Drop Menu , Navigation Link , Search Functionlty , Filter functionality works fine
-        * Test for websites performance e.g load time on each page , payment processing , adoption flow.
-        * Test for all Cat details ( image , age , sex & location correctly populated )
-        * Test for News & Update subscription with name and email work seamless
-        * Services Functionlty
-    **Why** 
-        * This ensure a positive user experience across various platforms and devices.
+* Test Website compabtility testing ( Dekstop , Mobile , tablet)
+* Test all Main menu , Sub Menu ,Drop Menu , Navigation Link , Search Functionlty , Filter functionality works fine
+* Test for websites performance e.g load time on each page , payment processing , adoption flow.
+* Test for all Cat details ( image , age , sex & location correctly populated )
+* Test for News & Update subscription with name and email work seamless
+* Services Functionlty
+**Why** 
+* This ensure a positive user experience across various platforms and devices.
 
 **Low Priority Use Cases**
-        * Content validation
-        * Login Functionaly of volunteer
+* Content validation
+* Login Functionaly of volunteer
    
-    **Why** 
-        * less critical aspects but can be included in a more comprehensive testing strategy.
+**Why** 
+* less critical aspects but can be included in a more comprehensive testing strategy.
 
 
 
