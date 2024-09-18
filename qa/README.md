@@ -66,3 +66,17 @@ Double and triple check that everything passes except the one deliberately expec
 Email a link back to your repository for us to review. We should be able to clone it locally, run the `npx cypress open` command to run the tests. Bonus points for a command that would run all the tests from the command line.
 
 You have 48 hours from now to return this exercise back to us. Good luck, and feel free to reach out with any questions!
+
+---------------------------------------------------------------------------------------------------------------------
+
+1- All Cypress tests have been implemented as specified. All tests are passing, except for one that is intentionally designed to fail for testing purpose.
+
+2- Within the QA folder, running the following command after executing npm install will launch the Cypress Test Runner "npx cypress open". This UI allows for the execution of all test cases.
+
+3- Test results, including screenshots, have been compiled into a Word document titled "Result.docx", located in the TestResult folder.
+
+4- A document detailing the Test Strategy Priorities and Test Cases for the catadoptionteam project is included in the qa/catadoptionteam directory.
+
+5- To run all tests via the command line, use:"npx cypress run". I have executed this command, and all tests passed except for the one intended to fail. The results from this command are also included in the "Result.docx" file in the TestResult folder.
+
+---------------------------------------------------------------------------------------------------------------------
