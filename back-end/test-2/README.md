@@ -1,6 +1,4 @@
-# Back end Drupal Coding Test
-
-For this assessment we’ll be importing data from JSON into a few related entities, using the sample data here: https://jsonplaceholder.typicode.com/users.
+# Back end Drupal Coding Test 2
 
 To set up the project please fork this GitHub repository to your personal account.  
 
